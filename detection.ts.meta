@@ -1,0 +1,36 @@
+- !<AssetImportMetadata/38d00ad3-da03-4289-9b7d-0032785bc934>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 4df8fc64-e9e2-40e5-991b-a290ace9429e
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 4df8fc64-e9e2-40e5-991b-a290ace9429e
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> bdc8c5db-f25e-4777-86da-33e00763ed83
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/d6315208-07dc-4d2a-baf1-967220752b4c>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/bdc8c5db-f25e-4777-86da-33e00763ed83>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    objectTracking: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - objectTracking: !<reference.ObjectTracking> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.ObjectTracking objectTracking
